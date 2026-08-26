@@ -1,0 +1,17 @@
+
+# --- added by proj-rescue ---
+node_modules/
+.venv/
+venv/
+__pycache__/
+.next/
+dist/
+build/
+*.mp4
+*.mov
+*.onnx
+*.pth
+*.sst
+*.dylib
+.DS_Store
+.env
